@@ -1,5 +1,16 @@
 # 🚩 Challenge 2: 🏵 Token Vendor 🤖
 
+## SOLVED September, 2023
+
+### Contract Deployments for this challenge
+- YourToken.sol: [0x08ed9c056eab125c4a139806e605d7fbf1c808fc](https://sepolia.etherscan.io/address/0x08ed9c056eab125c4a139806e605d7fbf1c808fc)
+- Vendor.sol: [0x220e544da024e01b8e2086f140c433a993577fce](https://sepolia.etherscan.io/address/0x220e544da024e01b8e2086f140c433a993577fce)
+
+### Frontend Deployments for this challenge
+-  [Challenge 2](https://speedethereum-challenges-fxvt0ze7c-ottodev.vercel.app/)
+
+---
+
 ![readme-2](https://github.com/scaffold-eth/se-2-challenges/assets/55535804/b427171f-3f20-41a5-b76f-05d67e2b9959)
 
 🤖 Smart contracts are kind of like "always on" _vending machines_ that **anyone** can access. Let's make a decentralized, digital currency. Then, let's build an unstoppable vending machine that will buy and sell the currency. We'll learn about the "approve" pattern for ERC20s and how contract to contract interactions work.
