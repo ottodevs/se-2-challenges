@@ -1,5 +1,16 @@
 # 🚩 Challenge 1: 🥩 Decentralized Staking App
 
+## SOLVED September, 2023
+
+### Contract Deployments for this challenge
+- ExampleExternalContract.sol: [0xfCcc8B302D2c7dE5Da35624f576caCD04648F4fA](https://sepolia.etherscan.io/address/0xfCcc8B302D2c7dE5Da35624f576caCD04648F4fA)
+- Staker.sol: [0x9305563A70c59dA19de74a1ad3a5FF01320adf82](https://sepolia.etherscan.io/address/0x9305563A70c59dA19de74a1ad3a5FF01320adf82)
+
+### Frontend Deployments for this challenge
+-  [Challenge 1](https://challenge-0-simple-hmarxaece-ottodev.vercel.app/)
+
+---
+
 ![readme-1](https://github.com/scaffold-eth/se-2-challenges/assets/80153681/a620999a-a1ff-462d-9ae3-5b49ab0e023a)
 
 🦸 A superpower of Ethereum is allowing you, the builder, to create a simple set of rules that an adversarial group of players can use to work together. In this challenge, you create a decentralized application where users can coordinate a group funding effort. If the users cooperate, the money is collected in a second smart contract. If they defect, the worst that can happen is everyone gets their money back. The users only have to trust the code.
